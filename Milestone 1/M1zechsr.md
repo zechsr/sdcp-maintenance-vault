@@ -12,7 +12,7 @@ Department heads use this data for estimating course demand and planning section
 - The frontend stores the shared api key in `auth-provider.tsx`. This is very problematic.
 - I was unable to find any evidence of any tests for the frontend component.
 - Anything else
-### Backend Server (Spring Boot/Java)
+### Backend Server
 - The backend server uses primarily Java 17, Spring Boot, and PostgreSQL
 - Versioning is unclear in the POM, and out-of-date Spring Boot causes build failures.
 - The application doesn't register authentication at all if `API_KEY` is missing or empty, which makes all API routes unauthenticated. It prints `Authorization is DISABLED.` and continues running completely exposed.

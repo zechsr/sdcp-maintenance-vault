@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "25702f198e09b64e",
+            "id": "153f8715cfcfcf46",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9b2975fb87b957e8",
@@ -203,9 +202,10 @@
   },
   "active": "c2128afdb12f1c27",
   "lastOpenFiles": [
+    "Milestone 1/M1zechsr.md",
     "Milestone 1/M1spohnmg.md",
     "Milestone 1/M1team.md",
-    "Milestone 1/M1zechsr.md",
+    "sdcp.csse.rose-hulman.edu.md",
     "2026-09-15.md",
     "Milestone 1",
     "sdcp-maintenance-vault/M1zechsr.md",
