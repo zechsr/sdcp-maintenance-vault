@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "39bb1c37c0be6750",
+        "id": "ad51b22b20ddcd22",
         "type": "tabs",
         "children": [
           {
-            "id": "262b22dd0b3842d1",
+            "id": "c2128afdb12f1c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milestone 1/M1team.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M1team"
+            }
+          },
+          {
+            "id": "25702f198e09b64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +34,8 @@
               "icon": "lucide-file",
               "title": "M1zechsr"
             }
-          },
-          {
-            "id": "49e34a080f9c5d9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Milestone 1/M1spohnmg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M1spohnmg"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9b2975fb87b957e8",
@@ -201,11 +201,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "49e34a080f9c5d9d",
+  "active": "c2128afdb12f1c27",
   "lastOpenFiles": [
-    "Milestone 1/M1team.md",
-    "Milestone 1/M1spohnmg.md",
     "Milestone 1/M1zechsr.md",
+    "Milestone 1/M1team.md",
+    "2026-09-15.md",
+    "Milestone 1/M1spohnmg.md",
     "Milestone 1",
     "sdcp-maintenance-vault/M1zechsr.md",
     "sdcp-maintenance-vault/M1team.md",
