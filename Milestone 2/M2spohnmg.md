@@ -27,6 +27,3 @@ Who runs: Developers
 + .github/workflows/ci.yml
 + package.json
 + package-lock.json
-
-
-a
