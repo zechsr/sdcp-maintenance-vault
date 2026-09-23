@@ -43,6 +43,7 @@ Developers
 ## Framework-Specific Scripts
 ### Backend Scripts
 + .`github/workflows/ci.yml
++ `mvnw.cmd
 
 ### Frontend Scripts
 + `.github/workflows/ci.yml
