@@ -1,0 +1,88 @@
+Milestone 3 frontend git intitial
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .github/workflows/ci.yml
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   eslint.config.mjs
+#	new file:   next.config.ts
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   src/app/(pages)/(main)/components/header.module.scss
+#	new file:   src/app/(pages)/(main)/components/header.tsx
+#	new file:   src/app/(pages)/(main)/components/logout-button.tsx
+#	new file:   src/app/(pages)/(main)/components/nav-link.tsx
+#	new file:   src/app/(pages)/(main)/historical-data/components/historical-data-ui.tsx
+#	new file:   src/app/(pages)/(main)/historical-data/page.tsx
+#	new file:   src/app/(pages)/(main)/layout.module.scss
+#	new file:   src/app/(pages)/(main)/layout.tsx
+#	new file:   src/app/(pages)/(main)/plan-data/components/plan-data-ui.tsx
+#	new file:   src/app/(pages)/(main)/plan-data/page.tsx
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/adjust-schedule-ui.module.scss
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/adjust-schedule-ui.tsx
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/generate-schedule-ui.module.scss
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/generate-schedule-ui.tsx
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/schedule-course-dialog.module.scss
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/schedule-course-dialog.tsx
+#	new file:   src/app/(pages)/(main)/schedule-generator/components/schedule-generator-applet.tsx
+#	new file:   src/app/(pages)/(main)/schedule-generator/lib/sched-gen-algorithm.ts
+#	new file:   src/app/(pages)/(main)/schedule-generator/lib/sched-gen-data-mgmt.ts
+#	new file:   src/app/(pages)/(main)/schedule-generator/lib/sched-gen-support.ts
+#	new file:   src/app/(pages)/(main)/schedule-generator/page.tsx
+#	new file:   src/app/(pages)/(main)/settings/components/app-settings-ui.tsx
+#	new file:   src/app/(pages)/(main)/settings/components/course-settings-dialog.module.scss
+#	new file:   src/app/(pages)/(main)/settings/components/course-settings-dialog.tsx
+#	new file:   src/app/(pages)/(main)/settings/components/course-settings-ui.module.scss
+#	new file:   src/app/(pages)/(main)/settings/components/course-settings-ui.tsx
+#	new file:   src/app/(pages)/(main)/settings/lib/course-settings-util.ts
+#	new file:   src/app/(pages)/(main)/settings/page.tsx
+#	new file:   src/app/(pages)/components/login-ui.tsx
+#	new file:   src/app/(pages)/layout.tsx
+#	new file:   src/app/(pages)/page.module.scss
+#	new file:   src/app/(pages)/page.tsx
+#	new file:   src/app/_global.scss
+#	new file:   src/app/_theme.scss
+#	new file:   src/app/components/academic-year-picker.module.scss
+#	new file:   src/app/components/academic-year-picker.tsx
+#	new file:   src/app/components/auth-check.tsx
+#	new file:   src/app/components/auth-provider.tsx
+#	new file:   src/app/components/course-data-table-view.module.scss
+#	new file:   src/app/components/course-data-table-view.tsx
+#	new file:   src/app/components/dialog-close-button.module.scss
+#	new file:   src/app/components/dialog-close-button.tsx
+#	new file:   src/app/components/error-message.module.scss
+#	new file:   src/app/components/error-message.tsx
+#	new file:   src/app/components/filter-chip-list.module.scss
+#	new file:   src/app/components/filter-chip-list.tsx
+#	new file:   src/app/components/filter-chip.module.scss
+#	new file:   src/app/components/filter-chip.tsx
+#	new file:   src/app/components/form-submit-ui.tsx
+#	new file:   src/app/components/framework/dialog.module.scss
+#	new file:   src/app/components/framework/dialog.tsx
+#	new file:   src/app/components/framework/external-link.tsx
+#	new file:   src/app/components/framework/hover-class-initializer.tsx
+#	new file:   src/app/components/framework/imperative-file-picker.tsx
+#	new file:   src/app/components/loading-message.module.scss
+#	new file:   src/app/components/loading-message.tsx
+#	new file:   src/app/favicon.ico
+#	new file:   src/app/layout.tsx
+#	new file:   src/app/lib/api-call-support.ts
+#	new file:   src/app/lib/api-calls.ts
+#	new file:   src/app/lib/data-structure-types.ts
+#	new file:   src/app/lib/data-structure-util.ts
+#	new file:   src/app/lib/domain-types.ts
+#	new file:   src/app/lib/domain-util.ts
+#	new file:   src/app/lib/framework/fetch-util.ts
+#	new file:   src/app/lib/framework/hover-class.ts
+#	new file:   src/app/lib/framework/react-util.ts
+#	new file:   src/app/root.module.scss
+#	new file:   src/app/util-styles/fa-util.module.scss
+#	new file:   src/app/util-styles/form-util.module.scss
+#	new file:   tsconfig.json
+#

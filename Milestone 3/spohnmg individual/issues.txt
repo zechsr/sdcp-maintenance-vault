@@ -1,0 +1,4 @@
+Additions to the gitignore (backend & frontend):
+
+Ignoring the dev-config mk-vscode folder because it has the .vscode stuff in it. In the future the .bats in the backend repo should be moved somewhere else.
+
